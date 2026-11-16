@@ -20,7 +20,7 @@
 - User is successfully logged in.
 - Product list is displayed.
 
-**Actual Result:** To be confirmed.  
+**Actual Result:** User logged in successfully and the product list was displayed.  
 **Status:** PASS
 
 ---
