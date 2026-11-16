@@ -30,6 +30,7 @@ The project focuses on testing an online shopping application: [SauceDemo](https
 
 ## Tools
 - Safari
+- Safari Web Inspector
 - Jira (practice)
 - Postman
 - SQL
