@@ -42,7 +42,7 @@
 
 **Priority:** High
 
-**Status:** Open – Retest required
+**Status:** Open – Retest failed
 
 **Related Test Case:** TC-005
 
@@ -52,6 +52,14 @@
 
 | Bug ID | Title | Severity | Priority | Status |
 |---|---|---|---|---|
-| BUG-001 | Order can be completed with an empty cart | High | High | Open – Retest required |
+| BUG-001 | Order can be completed with an empty cart | High | High | Open – Retest failed |
+
+---
+
+**Retest Result:**
+- The bug still occurs.
+- Checkout can still be completed with an empty cart.
+- **Retest Status:** FAIL
+- **Bug Status:** OPEN
 
 *Only defects actually observed during testing are included in this document.*
