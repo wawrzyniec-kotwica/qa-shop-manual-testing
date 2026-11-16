@@ -29,8 +29,7 @@ The project focuses on testing an online shopping application: [SauceDemo](https
 - Regression Testing
 
 ## Tools
-- Google Chrome
-- Chrome DevTools
+- Safari
 - Jira (practice)
 - Postman
 - SQL
